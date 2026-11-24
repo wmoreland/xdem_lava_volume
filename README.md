@@ -28,8 +28,7 @@ The 11 July 2023 aerial survey was carried out by a collaboration lead by N√°tt√
 | `20230711_1800_lava_outline.gpkg` | Full mapped lava extent used to estimate cumulative volume. |
 | `20230711_1800_artifact_mask.gpkg` | Polygons marking reconstruction artifacts excluded from the survey DEM. |
 | `20230711_1800_channel_mask.gpkg` | Polygons marking channel artifacts treated by local interpolation. |
-| `2023-07-11_1800_new_lava.gpkg` | Optional polygon of lava emplaced between surveys, used when estimating uncertainty for that interval. |
-| `20230711_1800_ORTHO_50cm_ISN93.tif` | Optional 50 cm orthomosaic for visual context. |
+| `20230711_1800_new_lava.gpkg` | Optional polygon of lava emplaced between surveys, used when estimating uncertainty for that interval. |
 
 File-level creator credits and reuse terms for the example GeoPackage layers are pending confirmation.
 
