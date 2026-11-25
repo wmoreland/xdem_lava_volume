@@ -1,0 +1,19 @@
+# Notebook outputs and checkpoints
+/output/
+.ipynb_checkpoints/
+
+# Local Python environments and bytecode
+/.venv/
+__pycache__/
+*.py[cod]
+
+# GDAL and GeoPackage sidecar files
+*.tif.aux.xml
+*.tif.ovr
+*.gpkg-journal
+*.gpkg-shm
+*.gpkg-wal
+
+# Desktop metadata
+.DS_Store
+Thumbs.db
