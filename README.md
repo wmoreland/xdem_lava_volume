@@ -26,7 +26,7 @@ The 11 July 2023 aerial survey was carried out by a collaboration lead by N√°tt√
 | `20220821_pre-eruption_DEM_2m_zmae.tif` | Reference surface before the 2023 eruption. Original source and reuse terms are pending confirmation. |
 | `20230711_1800_DEM_2m_ISN93.tif` | Survey DEM used for differencing. |
 | `20230711_1800_lava_outline.gpkg` | Full mapped lava extent used to estimate cumulative volume. |
-| `20230711_1800_artifact_mask.gpkg` | Polygons marking reconstruction artifacts excluded from the survey DEM. |
+| `20230711_1800_artifact_mask.gpkg` | Optional polygons marking reconstruction artifacts excluded from the survey DEM. Set `artifact_filename = None` to skip this step. |
 | `20230711_1800_channel_mask.gpkg` | Optional polygons marking channel artifacts treated by local interpolation. Set `channel_filename = None` to skip this step. |
 | `20230711_1800_new_lava.gpkg` | Optional polygon of lava emplaced between surveys, used when estimating uncertainty for that interval. |
 
