@@ -1,6 +1,6 @@
 # Lava flow volume from DEM differencing
 
-This Jupyter notebook estimates mean lava-flow thickness, bulk and dense-rock equivalent volumes, and time-averaged discharge rates from digital elevation models (DEMs). It adapts the lava-volume scripts by Joaquín M. C. Belart and Sydney R. Gunnarson. The main update is the use of xDEM to coregister the DEMs over stable terrain before differencing. The notebook uses residual elevation changes on stable terrain to estimate uncertainty and writes GeoTIFFs and a text summary to `output/`. [Original `volcano_scripts` workflow](https://github.com/natturufraedistofnun/volcano_scripts/tree/master/volume_scripts)
+This Jupyter notebook estimates mean lava-flow thickness, bulk and dense-rock equivalent volumes, and time-averaged discharge rates from digital elevation models (DEMs). It adapts the lava-volume scripts by Joaquín M. C. Belart and Sydney R. Gunnarson. The main update is the use of [xDEM](https://xdem.readthedocs.io) to coregister the DEMs over stable terrain before differencing. The notebook uses residual elevation changes on stable terrain to estimate uncertainty and writes GeoTIFFs and a text summary to `output/`. [Original `volcano_scripts` workflow](https://github.com/natturufraedistofnun/volcano_scripts/tree/master/volume_scripts)
 
 ## Run the example
 
