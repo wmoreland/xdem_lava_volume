@@ -1,0 +1,45 @@
+abstract: "<p>This repository contains a Jupyter notebook and example geospatial data\
+  \ for estimating mean lava-flow thickness, bulk and dense-rock equivalent volumes,\
+  \ and time-averaged discharge rates from digital elevation models (DEMs). It updates\
+  \ the lava-volume workflow in <a href=\"https://github.com/natturufraedistofnun/volcano_scripts\"\
+  >volcano_scripts</a>. The main change is the use of xDEM to align the DEMs over\
+  \ stable terrain before calculating elevation change.</p>\n<p>The included example\
+  \ uses a pre-eruption DEM and a survey acquired on 11 July 2023 during the Litli\
+  \ Hr\xFAtur eruption on Iceland's Reykjanes Peninsula. The notebook estimates discharge\
+  \ and its uncertainty from eruption onset to the first survey or between successive\
+  \ surveys.</p>"
+authors:
+- affiliation: Icelandic Meteorological Office
+  family-names: Moreland
+  given-names: William M.
+  orcid: 0000-0002-5801-1496
+- affiliation: Natural Science Institute of Iceland
+  family-names: Belart
+  given-names: "Joaqu\xEDn M. C."
+  orcid: 0000-0002-0853-8935
+- affiliation: Natural Science Institute of Iceland
+  family-names: Gunnarson
+  given-names: Sydney R.
+  orcid: 0009-0001-4258-3086
+- affiliation: Icelandic Meteorological Office
+  family-names: Pedersen
+  given-names: Gro B. M.
+  orcid: 0000-0002-1626-0822
+- affiliation: Natural Science Institute of Iceland
+  family-names: "\xD3skarsson"
+  given-names: Birgir V.
+  orcid: 0000-0001-5653-670X
+cff-version: 1.2.0
+date-released: '2026-11-25'
+doi: 10.5281/zenodo.24529772
+keywords:
+- gemet:concept/8999
+- Volcanic eruption
+- gemet:concept/9004
+- Volcano
+license:
+- cc-by-4.0
+message: If you use this work, please cite it using the metadata from this file.
+title: 'Lava Volume Calculator: A Jupyter Notebook Using xDEM for DEM Coregistration
+  and Differencing'
+version: v1.0.0
