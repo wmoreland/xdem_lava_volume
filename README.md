@@ -19,7 +19,7 @@ For the first calculation, use eruption onset and the first survey midpoint. For
 
 ## Example data and credits
 
-The 11 July 2023 aerial survey was carried out by a collaboration lead by Náttúrufræðistofnun. [University of Iceland survey report](https://jardvis.hi.is/is/eldgos-vid-litla-hrut-nidurstodur-maelinga-11-juli)
+The 11 July 2023 aerial survey was carried out by a collaboration led by Náttúrufræðistofnun. [University of Iceland survey report](https://jardvis.hi.is/is/eldgos-vid-litla-hrut-nidurstodur-maelinga-11-juli)
 
 | File | Role |
 | --- | --- |
